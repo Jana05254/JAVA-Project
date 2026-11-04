@@ -6,6 +6,7 @@ package com.mycompany.javaproject;
 
 class person{
 int id ;
+int age;
     public person() {
         
     }
