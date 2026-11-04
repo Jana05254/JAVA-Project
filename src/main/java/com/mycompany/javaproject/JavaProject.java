@@ -5,11 +5,13 @@
 package com.mycompany.javaproject;
 
 class person{
-
+int id ;
     public person() {
+        
     }
     
 }
+
 public class JavaProject {
 
     public static void main(String[] args) {
