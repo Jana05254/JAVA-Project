@@ -4,7 +4,12 @@
 
 package com.mycompany.javaproject;
 
+class person{
 
+    public person() {
+    }
+    
+}
 public class JavaProject {
 
     public static void main(String[] args) {
